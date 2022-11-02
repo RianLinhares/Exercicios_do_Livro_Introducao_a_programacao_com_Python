@@ -1,0 +1,2 @@
+# Exercicios_do_livro1
+Livro_Introdução_à_programação_com_Python
